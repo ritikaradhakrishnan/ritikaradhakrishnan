@@ -1,5 +1,5 @@
 - 👩🏽‍💻 Hi, I’m @ritikaradhakrishnan
-- 👀 I’m interested in Web development, I want to build things that make people smile !
+- 👀 I’m interested in software development, I want to build things that make people smile !
 - 👩🏽‍🎓 I’m a Computer Science Grad Student graduating in Fall '24
 - 💻 I’m currently learning ReactJS
 - ✅ I’m actively looking for SWE Summer Internship 2023
