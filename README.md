@@ -1,7 +1,7 @@
 - 👩🏽‍💻 Hi, I’m @ritikaradhakrishnan
 - 👀 I’m interested in software development, I want to build things that make people smile !
 - 👩🏽‍🎓 I’m a Computer Science Grad Student at Syracuse University graduating in Fall '24
-- 💻 I’m currently learning ReactJS
+- 💻 I’m currently learning VueJS
 - ✅ I’m actively looking for SWE Summer Internship 2023
 - 🤙🏽 How to reach me - Email : riradhak@syr.edu
 
