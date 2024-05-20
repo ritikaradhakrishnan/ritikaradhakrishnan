@@ -1,7 +1,5 @@
-- 👩🏽‍💻 Hi, I’m @ritikaradhakrishnan
-- 👀 I’m interested in software development, I want to build things that make people smile !
-- 👩🏽‍🎓 I’m a Computer Science Grad Student at Syracuse University graduating in Fall '24
-- 🤙🏽 How to reach me - Email : riradhak@syr.edu
+I am a Computer Science Grad Student from Syracuse University, graduated in May 2024
+Talk to me partner - Email : riradhak@syr.edu
 
 
 <!---
