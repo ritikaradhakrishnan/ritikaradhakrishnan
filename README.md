@@ -1,6 +1,7 @@
 I am a Computer Science Grad Student from Syracuse University, graduated in May 2024 </br>
 🙋🏽‍♀️
-Talk to me partner - Email : riradhak@syr.edu
+On a journey to write clean and maintainable code. </br>
+Talk to me partner, riradhak@syr.edu
 
 
 <!---
