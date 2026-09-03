@@ -1,6 +1,6 @@
 🙋🏽‍♀️
 On a journey to write clean and maintainable code. </br>
-Talk to me partner, riradhak@syr.edu
+
 
 
 <!---
